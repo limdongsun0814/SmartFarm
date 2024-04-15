@@ -21,7 +21,7 @@
 
 ## 담당
 
-- 아두이노 NANO 와 센서, 모터 제어 (I2C, Serial, PWM)
+- 아두이노 NANO 와 센서 센싱, 모터 제어 (I2C, Serial, PWM)
 
 ## 기능
 
