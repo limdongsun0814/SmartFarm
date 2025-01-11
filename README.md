@@ -12,7 +12,7 @@
 
 ## 스마트팜 자동제어 및 모니터링
 
-<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQ0Nn7WKjWnRbgBoIoABCjCAacu36VKglKEK4j4EpOJpg8" width="100%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQ0Nn7WKjWnRbgBoIoABCjCAacu36VKglKEK4j4EpOJpg8?raw=1" width="100%"/>
 
 ## 목적
 
