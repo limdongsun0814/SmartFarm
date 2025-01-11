@@ -1,5 +1,6 @@
 # SmartFarm
 
+<!--
 <div>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
@@ -51,7 +52,7 @@
 - 측정한 데이터중 온습도 데이터는 차트로 확인
 <div align="center">
 <img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQSAtzmBkxGiS7WraCoZPuLRAcA4iMGmH53ONERf0mSxYvQ?width=1024" width="30%"/>
-</div></br>
+</div></br> -->
 
 ### 3. 자동제어 기준치 변경
 
