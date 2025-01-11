@@ -12,9 +12,7 @@
 
 ## 스마트팜 자동제어 및 모니터링
 
-<!-- <img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQ0Nn7WKjWnRbgBoIoABCjCAacu36VKglKEK4j4EpOJpg8?width=1024" width="100%"/> -->
-
-![My Image](https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQ0Nn7WKjWnRbgBoIoABCjCAacu36VKglKEK4j4EpOJpg8?width=1024)
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQ0Nn7WKjWnRbgBoIoABCjCAacu36VKglKEK4j4EpOJpg8" width="100%"/>
 
 ## 목적
 
@@ -33,9 +31,9 @@
 - 농장의 온습도, 이산화탄소량을 측정해 기준치를 벗어나면 냉방기, 환풍기등 외부기기를 제어
 - 일정 시간마다 반사판을 회전시켜 최적/최대 광량을 공급하는 각도로 제어 및 유지
  <div align="center">
-<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQRVLg3AXRPSRpp13vwaNoz-AXMIsaSFR3xgnXvKI42LnB8?width=1024" width="60%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQRVLg3AXRPSRpp13vwaNoz-AXMIsaSFR3xgnXvKI42LnB8" width="60%"/>
    &nbsp;&nbsp;&nbsp;
-<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQTOMnpi8c6oS4LWbEgxrkSgAVhtPTdBggV8my6zoK3FxI4?width=1024" width="25%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQTOMnpi8c6oS4LWbEgxrkSgAVhtPTdBggV8my6zoK3FxI4" width="25%"/>
 </div></br>
 
 ### 2. 센서 정보 서버업로드 및 모니터링
@@ -43,23 +41,23 @@
 - 농장에서 측정한 각종 센서(온습도, 광량, 이산화탄소) 정보를 서버에 업로드
 - 전용 어플리케이션(Android)에서 이를 모니터링
 <div align="center">
-<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQTimHq-_uv9QrgXKwOcZhpvAQRLhT06z7ATQeDu6EQMenA?width=1024" width="30%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQTimHq-_uv9QrgXKwOcZhpvAQRLhT06z7ATQeDu6EQMenA" width="30%"/>
    &nbsp;&nbsp;&nbsp;
-<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQwjmA2XkrJSrpIQRVxsnjGAVATsgbJVk1GFvd_yf0q4Tg?width=1024" width="30%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQwjmA2XkrJSrpIQRVxsnjGAVATsgbJVk1GFvd_yf0q4Tg" width="30%"/>
    &nbsp;&nbsp;&nbsp;
-<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQhdhlwLBfGTY6m9SJCvnwOATlHy2AGghSAf_okvPICvlA?width=1024" width="30%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQhdhlwLBfGTY6m9SJCvnwOATlHy2AGghSAf_okvPICvlA" width="30%"/>
 </div></br>
 
 - 측정한 데이터중 온습도 데이터는 차트로 확인
 <div align="center">
-<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQSAtzmBkxGiS7WraCoZPuLRAcA4iMGmH53ONERf0mSxYvQ?width=1024" width="30%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQSAtzmBkxGiS7WraCoZPuLRAcA4iMGmH53ONERf0mSxYvQ" width="30%"/>
 </div></br>
 
 ### 3. 자동제어 기준치 변경
 
 - 스마트팜의 자동제어 기준치 (온도, 습도, 이산화탄소)를 변경 후 해당 농장에 적용한다.
 <div align="center">
-<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQRqmnpZeTtlSaB6NR-7v8CQAZ2i30WmD49rk604a6tI04E?width=1024" width="30%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQRqmnpZeTtlSaB6NR-7v8CQAZ2i30WmD49rk604a6tI04E" width="30%"/>
 </div></br>
 
 ## 관련논문
