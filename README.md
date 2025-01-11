@@ -1,6 +1,5 @@
 # SmartFarm
 
-<!--
 <div>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
@@ -13,7 +12,9 @@
 
 ## 스마트팜 자동제어 및 모니터링
 
-<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQ0Nn7WKjWnRbgBoIoABCjCAacu36VKglKEK4j4EpOJpg8?width=1024" width="100%"/>
+<!-- <img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQ0Nn7WKjWnRbgBoIoABCjCAacu36VKglKEK4j4EpOJpg8?width=1024" width="100%"/> -->
+
+![My Image](https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQ0Nn7WKjWnRbgBoIoABCjCAacu36VKglKEK4j4EpOJpg8?width=1024)
 
 ## 목적
 
@@ -23,7 +24,7 @@
 ## 담당
 
 - 반사판 제어, 센서 센싱
-<!-- - 아두이노 NANO 와 센서 센싱, 모터 제어 (I2C, Serial, PWM)
+<!-- - 아두이노 NANO 와 센서 센싱, 모터 제어 (I2C, Serial, PWM) -->
 
 ## 기능
 
@@ -52,7 +53,7 @@
 - 측정한 데이터중 온습도 데이터는 차트로 확인
 <div align="center">
 <img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQSAtzmBkxGiS7WraCoZPuLRAcA4iMGmH53ONERf0mSxYvQ?width=1024" width="30%"/>
-</div></br> -->
+</div></br>
 
 ### 3. 자동제어 기준치 변경
 
