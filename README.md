@@ -40,13 +40,13 @@
 
 - 농장에서 측정한 각종 센서(온습도, 광량, 이산화탄소) 정보를 서버에 업로드
 - 전용 어플리케이션(Android)에서 이를 모니터링
-<div align="center">
+<!-- <div align="center">
 <img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQTimHq-_uv9QrgXKwOcZhpvAQRLhT06z7ATQeDu6EQMenA?width=1024" width="30%"/>
    &nbsp;&nbsp;&nbsp;
 <img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQwjmA2XkrJSrpIQRVxsnjGAVATsgbJVk1GFvd_yf0q4Tg?width=1024" width="30%"/>
    &nbsp;&nbsp;&nbsp;
 <img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQhdhlwLBfGTY6m9SJCvnwOATlHy2AGghSAf_okvPICvlA?width=1024" width="30%"/>
-</div></br>
+</div></br> -->
 
 - 측정한 데이터중 온습도 데이터는 차트로 확인
 <div align="center">
