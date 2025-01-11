@@ -12,7 +12,7 @@
 
 ## 스마트팜 자동제어 및 모니터링
 
-<img src="https://github.com/limdongsun0814/SmartFarm/blob/main/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%A1%B0%EA%B0%90%EB%8F%84/bird%20eye%20view.jpg" width="100%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQ0Nn7WKjWnRbgBoIoABCjCAacu36VKglKEK4j4EpOJpg8?width=1024" width="100%"/>
 
 ## 목적
 
@@ -20,6 +20,7 @@
 - 스마트팜의 상태를 어플리케이션으로 모니터링하고 설치된 각종 기기를 원격 제어
 
 ## 담당
+
 - 반사판 제어, 센서 센싱
 <!-- - 아두이노 NANO 와 센서 센싱, 모터 제어 (I2C, Serial, PWM) -->
 
@@ -30,9 +31,9 @@
 - 농장의 온습도, 이산화탄소량을 측정해 기준치를 벗어나면 냉방기, 환풍기등 외부기기를 제어
 - 일정 시간마다 반사판을 회전시켜 최적/최대 광량을 공급하는 각도로 제어 및 유지
  <div align="center">
-<img src="https://github.com/limdongsun0814/SmartFarm/blob/main/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EB%86%8D%EC%9E%A5%20%EB%82%B4%EB%B6%80.jpg" width="60%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQRVLg3AXRPSRpp13vwaNoz-AXMIsaSFR3xgnXvKI42LnB8?width=1024" width="60%"/>
    &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/limdongsun0814/SmartFarm/blob/main/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EB%B0%98%EC%82%AC%ED%8C%90%ED%9A%8C%EC%A0%84.gif" width="25%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQTOMnpi8c6oS4LWbEgxrkSgAVhtPTdBggV8my6zoK3FxI4?width=1024" width="25%"/>
 </div></br>
 
 ### 2. 센서 정보 서버업로드 및 모니터링
@@ -40,23 +41,23 @@
 - 농장에서 측정한 각종 센서(온습도, 광량, 이산화탄소) 정보를 서버에 업로드
 - 전용 어플리케이션(Android)에서 이를 모니터링
 <div align="center">
-<img src="https://github.com/limdongsun0814/SmartFarm/blob/main/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.jpg" width="30%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQTimHq-_uv9QrgXKwOcZhpvAQRLhT06z7ATQeDu6EQMenA?width=1024" width="30%"/>
    &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/limdongsun0814/SmartFarm/blob/main/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EB%88%84%EC%A0%81%EA%B4%91%EB%9F%89%20%ED%99%94%EB%A9%B4.jpg" width="30%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQwjmA2XkrJSrpIQRVxsnjGAVATsgbJVk1GFvd_yf0q4Tg?width=1024" width="30%"/>
    &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/limdongsun0814/SmartFarm/blob/main/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%99%94%EB%A9%B4.jpg" width="30%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQQhdhlwLBfGTY6m9SJCvnwOATlHy2AGghSAf_okvPICvlA?width=1024" width="30%"/>
 </div></br>
 
 - 측정한 데이터중 온습도 데이터는 차트로 확인
 <div align="center">
-<img src="https://github.com/limdongsun0814/SmartFarm/blob/main/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%99%94%EB%A9%B4.jpg" width="30%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQSAtzmBkxGiS7WraCoZPuLRAcA4iMGmH53ONERf0mSxYvQ?width=1024" width="30%"/>
 </div></br>
 
 ### 3. 자동제어 기준치 변경
 
 - 스마트팜의 자동제어 기준치 (온도, 습도, 이산화탄소)를 변경 후 해당 농장에 적용한다.
 <div align="center">
-<img src="https://github.com/limdongsun0814/SmartFarm/blob/main/%EC%82%AC%EC%A7%84%20%EB%B0%8F%20%EC%98%81%EC%83%81/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%A0%9C%EC%96%B4%20%EA%B8%B0%EC%A4%80%EC%B9%98%20%ED%99%94%EB%A9%B4.jpg" width="30%"/>
+<img src="https://1drv.ms/i/c/dd3bc808d6b4a8bc/IQRqmnpZeTtlSaB6NR-7v8CQAZ2i30WmD49rk604a6tI04E?width=1024" width="30%"/>
 </div></br>
 
 ## 관련논문
